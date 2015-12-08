@@ -6,7 +6,7 @@ Enregistrer sous sonnom.csv
 cela ne sauvegarde pas les modifications, on fait bien un export du feuillet en cours
 
 # Géocodage des données
-* On va se servir des tools :) et en particulier du géoodeur : http://adresse.data.gouv.fr/csv/
+* On va se servir des tools :) et en particulier du géocodeur : http://adresse.data.gouv.fr/csv/
 * on y importe le fichier sonnom.csv,
 * on glisse les colonnes adresse,
 * ville qui nous intéresse pour le géocodage,
