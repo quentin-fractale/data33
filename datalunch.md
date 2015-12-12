@@ -59,5 +59,5 @@ la flèche vers le haut, dans le menu de droite
 On importe dans un nouveau calque pour tester
 
 ###Personnalisation du calque
-
+![Personnalisation du calque]({{https://framapic.org/GHPHFWepo5Ln/BYwJPjgwEeqp.pngl}}/)
 ###Choix des pop-ups
