@@ -60,4 +60,7 @@ On importe dans un nouveau calque pour tester
 
 ###Personnalisation du calque
 ![Personnalisation du calque]({{https://framapic.org/GHPHFWepo5Ln/BYwJPjgwEeqp.pngl}}/)
+
+![Personnalisation du calque]({{site.baseurl}}//Capture%20du%202015-12-12%2021%3A05%3A38.png)
+
 ###Choix des pop-ups
