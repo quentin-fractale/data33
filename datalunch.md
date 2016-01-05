@@ -1,3 +1,4 @@
+![]({{site.baseurl}}//engrenage.png)
 # Qualité du tableur de données
 on s'assure que les titres de colonnes aient des noms explicites mais sans caractères "particuliers" (pas d'accents, d'apostrophes, pas d'espaces)
 
