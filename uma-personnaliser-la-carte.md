@@ -4,3 +4,6 @@ Lorsque vous cliquer sur ![l'engrenage](https://framapic.org/BVkPXHWv5ujj/ODe2NP
 ![](https://framapic.org/wXUGc9EGEnAo/mkK92d5KkXWf)
 
 Sans rentrer dans le détail de toutes les propriétés, vous pouvez alors voir le (wiki d'OpenStreetMap consécré à Umap)[https://wiki.openstreetmap.org/wiki/FR:UMap/Guide]
+
+![l'engrenage](https://framapic.org/BVkPXHWv5ujj/ODe2NPoCW09j)
+
