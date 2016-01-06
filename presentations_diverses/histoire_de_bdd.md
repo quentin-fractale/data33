@@ -43,6 +43,8 @@ Pour obtenir à la fin une base de données avec plusieurs tables :
 
 ![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-05.png)
 
+Donc effectivement pour 3 enfants et leur père ce n'est pas forcément nécessaire mais si on fait cela pour tous les pères du monde !!!
+
 #### Conclusion
 Pour peu de données, un tableur est suffisant, facile à mettre en œuvre, utilisation relativement simple, permet de rapidement voir si les données sont *propres* (en triant, observant, ...)
 
