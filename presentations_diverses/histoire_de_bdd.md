@@ -68,6 +68,17 @@ Pour beaucoup de données, la base de données devient nécessaire. Plus perform
 de quelques mégaoctets à plusieurs téraoctet
 
 ## Des données plus ou moins structurées
+
+
+## Aller + loin : 
+Quelques sources : 
+- https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
+- https://fr.wikipedia.org/wiki/NoSQL
+- https://fr.wikipedia.org/wiki/MongoDB
+
+
+## A savoir : 
+
 Dans une base de données "classique" dite relationnelles, la structure de départ est primordiale et souvent complexe à modifier par la suite.
 
 Pour pallier à cela et permettre d'éviter cette structuration à-priori, on parle de plus en plus de base de données NoSQL (Not only SQL en anglais).
@@ -81,16 +92,3 @@ on va utiliser pour les données une forme comme ceci :
 ![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-08.png)
 
 Images issues de [wikipédia](https://fr.wikipedia.org/wiki/MongoDB)
-
-## Aller + loin : 
-Quelques sources : 
-- https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
-- https://fr.wikipedia.org/wiki/NoSQL
-- https://fr.wikipedia.org/wiki/MongoDB
-- 
-
-
-## A savoir : 
-Les images proviennent du site http://www.3stone.be, sous licence CC-by-sa
-
-## Cadre d'utilisation
