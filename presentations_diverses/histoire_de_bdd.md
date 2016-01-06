@@ -53,10 +53,17 @@ Pour beaucoup de données, la base de données devient nécessaire. Plus perform
 ## Quelques abréviations
 - bdd -> Base de données
 - sgbd -> Système de Gestion de Base de Données
+ - l'ensemble des logiciels qui vont permettre d'exploiter la base de données
 - ODbL -> Open Database License
+ - licence permettant la réutilisation des données contenues dans la base -> fréquemment utilisée pour les données ouvertes.
 
 ## Quelques ordres de grandeurs
 de quelques mégaoctets à plusieurs téraoctet
+
+## Des données plus ou moins structurées
+Dans une base de données "classique "relationnelles, la structure de départ est primordiale et souvent complexe à modifier par la suite.
+
+On parle de plus en plus de base de données NoSQL (Not only SQL en anglais).
 
 ## Aller + loin : 
 Quelques sources : 
