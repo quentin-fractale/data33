@@ -1,22 +1,21 @@
-# Vous abez dit BDD ?
+# Vous avez dit BDD ?
 
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
-- **Auteur** : Vicnent Bergeot
+- **Auteur** : Vincent Bergeot
 - **Date de MàJ** : 06/01/2016
 - **Licence** : CC-by-sa
 
-## Principes - Ce que nous allons faire
-Découvrir les bases d'une base de données
+## Objectifs de cette présentation
+Découvrir les bases de données
 - définition
 - les différentes formes
 - quelques exemples
 - les utilisations
 
-## Ingrédients - Ce dont nous avons besoin
-
-## Étapes - Comment allons-nous procéder ?
-
+## Définition
+*Une base de données (en anglais : database) est un outil permettant de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ; celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles1,2. Dans la très grande majorité des cas, ces informations sont très structurées, et la base est localisée dans un même lieu et sur un même support.* 
+https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
 
 
 ## Aller + loin : 
@@ -24,4 +23,5 @@ Quelques sources :
 
 ## A savoir : 
 
-## Liens avec d’autres fiches : 
+## Cadre d'utilisation
+- 
