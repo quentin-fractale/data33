@@ -20,8 +20,33 @@ https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
 
 ## Différence entre tableur et base de données
 
-### Pour faire cette table
-![01](img/bdd-01.png)
+Pour faire cette table ![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-01.png)
+
+#### Dans un tableur
+je note les noms de colonnes, je remplis les données.
+
+**Problème : j'écris trois fois Durand**
+
+Alors que je pourrai n'écrire que cela :
+
+![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-02.png)
+
+Mais dans ce cas, j'ai besoin de connaître la "relation" entre "Durand" d'une part et "Paul, Jacques, Louis"
+
+#### Dans une base de données
+Je vais créer 2 tables 
+![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-03.png)
+
+et définir une relation entre elles ![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-04.png)
+
+Pour obtenir à la fin une base de données avec plusieurs tables :
+
+![](https://raw.githubusercontent.com/vinber/data33/master/presentations_diverses/img/bdd-05.png)
+
+#### Conclusion
+Pour peu de données, un tableur est suffisant, facile à mettre en œuvre, utilisation relativement simple, permet de rapidement voir si les données sont *propres* (en triant, observant, ...)
+
+Pour beaucoup de données, la base de données devient nécessaire. Plus performante sur des gros volume de données, plus adaptées pour faire des recherches et des vérifications de "propreté", la mise en œuvre demande une plus grande réflexion sur les tables de données et leurs relations.
 
 ## Quelques abréviations
 - bdd -> Base de données
@@ -31,12 +56,10 @@ https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
 ## Quelques ordres de grandeurs
 de quelques mégaoctets à plusieurs téraoctet
 
-## Contruire une base de données ou un tableur
-L'organisation, la structuration 
-
 ## Aller + loin : 
 Quelques sources : 
 
 ## A savoir : 
+Les images proviennent du site http://www.3stone.be, sous licence CC-by-sa
 
 ## Cadre d'utilisation
