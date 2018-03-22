@@ -7,15 +7,14 @@
 
 ## Principes - Ce que nous allons faire
 
-- Animer les ailes d'une abeille sur un paysage de fleurs
+- Améliorer des images scannées de dessins réalisés par les enfants
 
 ## Ingrédients - Ce dont nous avons besoin
 
-- des dessins
+- des scans des dessins des enfants
     - d'une aile d'abeille
     - d'un corp d'abeille sans les ailes
-    - d'un paysage de fleurs
-- Synfig studio
+- Gimp
 
 ## Étapes - Comment allons-nous procéder ?
 
@@ -42,6 +41,10 @@ Quelques sources :
 - https://wiki.synfig.org/Category:Tutorials/fr
 
 ## A savoir : 
+
+**Contexte** : cette fiche est utilisée dans le cadre du dispositif des [Juniors du Développement Durable de Bordeaux Métropole](http://www.juniorsdudd.bordeaux-metropole.fr/), auprès d'une classe de CE2 de l'école Jules Michelet à Villenave d'Ornon. 1h15 par 1/2 classe, en salle informatique. Intervenant : Vincent Bergeot [Num&Lib](https://numetlib.fr).
+
+Les enfants ont déja les dessins du corps, des ailes et des fonds de carte.
 
 ## Liens avec d’autres fiches : 
 
