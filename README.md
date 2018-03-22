@@ -1,3 +1,6 @@
-# data33
+# Diverses fiches pédagogiques
 
-pour des essais<i class="fa fa-pencil-square-o"></i>
+Des projets en classes, des formations, des accompagnements, ...
+
+On en retrouve également par ici, pour les [datalunch](https://github.com/infolab-cd33/datalunch) 
+
