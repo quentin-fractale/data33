@@ -61,8 +61,9 @@
 
 Quelques ressources : 
 
-- https://wiki.synfig.org/Category:Tutorials/fr,
-- https://www.youtube.com/watch?annotation_id=annotation_3126018257&feature=iv&src_vid=odlPI6hfnDM&v=WAB6HrOTw0Q,
+- [le site de Synfig](https://www.synfig.org/)
+- [Quelques tutoriels en ligne](https://wiki.synfig.org/Category:Tutorials/fr),
+- [Une vidéo qui m'a beaucoup guidé](https://www.youtube.com/watch?annotation_id=annotation_3126018257&feature=iv&src_vid=odlPI6hfnDM&v=WAB6HrOTw0Q),
 
 
 ## A savoir :
