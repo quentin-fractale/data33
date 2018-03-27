@@ -2,7 +2,7 @@
 
 - **Niveau** : **Débutant** / Intermédiaire / Avancé / Expert
 - **Auteur** : Vincent Bergeot
-- **Date de MàJ** : 22/03/2018
+- **Date de MàJ** : 27/03/2018
 - **Licence** : CC-BY-SA
 
 ## Principes - Ce que nous allons faire
@@ -21,9 +21,9 @@
 
 - Ouvrir Synfig Studio ![](medias/jdd-synfig/01.png)
 - définir la taille du canevas (Canevas / propriétés (F8)), surtout le nom, on va garder le reste![](medias/jdd-synfig/02.png),
-- insérer le corps et **une** aile (soit fichier importer, soit glisser déposer) ![](medias/jdd-synfig/03.png)
+- insérer le corps et **une** aile (soit fichier importer (Ctrl+I), soit glisser déposer) ![](medias/jdd-synfig/03.png)
     - nommer les calques,
-    - s'assurer que l'origine est bien à la pointe de l'aile, sinon l'adapter,
+    - s'assurer que l'origine est bien à la pointe de l'aile, sinon l'adapter (Ctrl+déplacer le point vert à la souris),
     - adapter la taille de chaque partie,![](medias/jdd-synfig/01.gif)
 - regrouper le corps et **une** aile dans un groupe "abeille",
     - sélectionner les 2 calques avec Ctrl puis Grouper les calques,
