@@ -72,3 +72,4 @@ Le fait de se connecter avec son compte lors de l'ajout de note ou de réponse �
 - Se créer un compte OpenStreetMap (à faire)
     - vérifier la question de la licence des données !
 
+

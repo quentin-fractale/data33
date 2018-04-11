@@ -36,3 +36,4 @@ Les enfants ont dessiné sur papier le corps de l'abeille et une aile. Ces dessi
 
 ## Liens avec d’autres fiches : 
 
+- synfig-animer-abeille.md
