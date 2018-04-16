@@ -23,7 +23,7 @@
 ### Passer en mode de modification,
 
 - Se rendre sur le lieu que l'on souhaite modifier,
-- Par défaut si on clique sur Modifier c'est l'éditeur iD en ligne qui s'ouvre (
+- Par défaut si on clique sur Modifier c'est l'éditeur iD en ligne qui s'ouvre,
 - On a alors des photographies aériennes et les données OpenStreetMap en "sur-impression",
 - Sur le menu de droite vertical, on peut définir les "Paramètres du fond de carte" (raccourci clavier B) ainsi que les "Données Cartographiques" visibles (raccourci clavier F),
     - **Paramètres du fond de carte** : pour choisir entre les différentes sources de photographies aériennes, le cadastre mais également d'autres calques de données (type traces gps OSM, d'autres sources d'analyses). Il est également possible de modifier les Options d'affichaes et d'ajuster le décalage du fond de carte)
@@ -60,9 +60,6 @@
 ![](medias/osm-iD-modifier/modif-4.gif)
 
 
-
-
-
 ## Aller + loin : 
 Quelques sources : 
 
@@ -70,10 +67,17 @@ Quelques sources :
 
 ## A savoir : 
 
-Le fait de se connecter avec son compte lors de l'ajout de note ou de réponse à des notes permet d'être ensuite tenu au courant lorsque ces notes sont modifiées par d'autres contributeurs.
+- Lorsque que l'on clique sur Modifier, on peut choisir deux autres options :
+    - Modifier avec Potlach 2 (éditeur intégré au navigateur)
+        - c'est l'ancien éditeur d'OpenStreetMap dont iD a "pris" la place, par défaut,
+    - Modifier avec Éditeur externe (JOSM ou Merkaartor)
+        - permet de charger les données dans un éditeur externe, si celui-ci est ouvert et configuré pour cela,
+
+![](medias/osm-iD-modifier/modif-5.png)
 
 ## Liens avec d’autres fiches : 
 
 - Se créer un compte OpenStreetMap (à faire)
     - vérifier la question de la licence des données !
+- [Ajout d'une note dans OSM](osm-ajouter-notes.md)
 
