@@ -13,48 +13,53 @@
 
 - Un navigateur et une connection internet,
 - Avoir constaté une erreur, un manque, une amélioration sur OpenStreetMap,
-- Un compte OpenStreetMap,
+- Un compte OpenStreetMap et être connecté,
 
 
 ## Étapes - Comment allons-nous procéder ?
-
-### Se connecter,
-
-- Ouvrir le navigateur,
-- Se rendre sur OpenStreetMap
-    - [https://openstreetmap.org](https://openstreetmap.org),
-    - [https://osm.org](https://osm.org),
-- Se rendre en haut à droite,
-- S'identifier,
-
-**image à modifier**
-
-![](medias/osm-ajout-note/note-1.gif)
 
 *En haut à droite, l'identifiant est visible, signe que vous êtes connecté.*
 
 ### Passer en mode de modification,
 
+- Se rendre sur le lieu que l'on souhaite modifier,
 - Par défaut si on clique sur Modifier c'est l'éditeur iD en ligne qui s'ouvre (
 - On a alors des photographies aériennes et les données OpenStreetMap en "sur-impression",
 - Sur le menu de droite vertical, on peut définir les "Paramètres du fond de carte" (raccourci clavier B) ainsi que les "Données Cartographiques" visibles (raccourci clavier F),
     - **Paramètres du fond de carte** : pour choisir entre les différentes sources de photographies aériennes, le cadastre mais également d'autres calques de données (type traces gps OSM, d'autres sources d'analyses). Il est également possible de modifier les Options d'affichaes et d'ajuster le décalage du fond de carte)
     - **Données Cartographiques** : pour choisir quelles données OSM sont visibles (par défaut toutes) et également voir les données provenant de Mapillary,
 
-**Refaire l'image
-**
-
-![](medias/osm-ajout-note/note-2.gif)
+![](medias/osm-iD-modifier/modif-1.gif)
 
 ### Ajouter un point
 
+- Choisir le type de "forme" : point, ligne, polygone
+    - ici choix du point (raccourci clavier 1 / 2 piour ligne, 3 pour polygone),
+- Rechercher les attributs adéquats,
+- Sauvegarder et commenter l'action, 
+
+![](medias/osm-iD-modifier/modif-2.gif)
+
+### Modifier un point
+
+- Choisir l'objet à modifier,
+    - ici un arbre,
+- Compléter par les attributs adéquats,
+- Sauvegarder et commenter l'action, 
+
+![](medias/osm-iD-modifier/modif-3.gif)
 
 
 ### Supprimer un point
 
+- Choisir l'objet à supprimer,
+    - ici un distributeur,
+- Clic Droit avec la souris ou Ctrl+BackSpace,
+- Sauvegarder et commenter l'action, 
+
+![](medias/osm-iD-modifier/modif-4.gif)
 
 
-### Modifier un point
 
 
 
