@@ -4,7 +4,6 @@
 - **Auteur** : Un ou des noms
 - **Date de MàJ** : 02/12/2015
 - **Licence** : CC-BY / CC-by-sa / ...
-- [Pour revenir au dépot](http://datalunch.datalocale.fr)
 
 ## Principes - Ce que nous allons faire
 

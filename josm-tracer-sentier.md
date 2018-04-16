@@ -32,7 +32,7 @@
     - renseigner les champs Nom, Réseau, Référence, Société, Distance, dénivellé, Aller-Retour)
 - Ajouter les éléments dans la relation
     - en se servant des éléments déjà présents et en coupant les routes, sentiers, pistes utilisés par l'itinéraire (le raccourci P est votre ami pour couper les chemins),
-- Qaund l'ensemble de l'itinéraire se trouve dans la relation on vérifie puis on onvoie les données
+- Quand l'ensemble de l'itinéraire se trouve dans la relation on vérifie puis on envoie les données,
 
 ## Aller + loin : 
 Quelques sources :
