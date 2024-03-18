@@ -19,7 +19,7 @@
 - Sur la carte Umap 1 masquer tous les calques qui ne nous intéresse pas,
 - Cliquer sur "exporter et partager la carte", Choisir Options d'export de l'iframe", cliquer sur "Garder les calques visibles actuellement"
 - Dans le code généré au dessus, chercher l'identifiant faisant suite à ...&datalayers=<id calque>
-- Dans la carte Umap2, créer un nouveau calque, renseigner dans Données Distantes l'URL du calque souhaité "http://umap.openstreetmap.fr/fr/datalayer/<id calque> et choisir geojson comme format de données.
+- Dans la carte Umap2, créer un nouveau calque, renseigner dans Données Distantes l'URL du calque souhaité "http://umap.openstreetmap.fr/fr/datalayer/<id carte>/<id calque>/ et choisir geojson comme format de données.
 - Enregistrer
 
 
